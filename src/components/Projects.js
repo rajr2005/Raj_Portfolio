@@ -11,7 +11,7 @@ const Projects = () => {
       image: '📊',
       features: ['Real-time tracking', 'Automated reports', 'Dashboard analytics', 'User authentication'],
       
-      github: '#'
+      github: 'https://github.com/rajr2005/Attendance-Management'
     },
     {
       title: 'Institute Video Management',
@@ -20,7 +20,7 @@ const Projects = () => {
       image: '🎥',
       features: ['Video upload & streaming', 'Categories & tags', 'Search functionality', 'User management'],
       
-      github: '#'
+      github: 'https://github.com/rajr2005/Institute-Video-Management'
     },
     {
       title: 'API Creator (MockAPI)',
@@ -29,7 +29,7 @@ const Projects = () => {
       image: '⚙️',
       features: ['Quick API generation', 'JSON endpoint management', 'Data storage', 'API testing tools'],
       
-      github: '#'
+      github: 'https://github.com/rajr2005/Api-Creator'
     }
   ];
 
