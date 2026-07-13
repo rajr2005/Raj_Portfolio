@@ -15,7 +15,7 @@ const About = () => {
             </p>
 
             <p>
-              With hands-on experience in <strong>Java Spring Boot</strong>, <strong>Python Django</strong>, and <strong>React</strong>, I enjoy translating complex requirements into elegant, user-friendly solutions. My projects demonstrate my ability to work across the full development stack, from database design to responsive UI.
+              With hands-on experience in <strong>Java Spring Boot</strong>, <strong>Python Django</strong>, <strong>Data Analytics</strong> and <strong>React</strong>, I enjoy translating complex requirements into elegant, user-friendly solutions. My projects demonstrate my ability to work across the full development stack, from database design to responsive UI.
             </p>
 
             <p>
@@ -50,6 +50,23 @@ const About = () => {
               <h3>Email</h3>
               <p>infotechraj2005@gmail.com</p>
               <small>Let's connect!</small>
+            </div>
+
+            <div className="info-card">
+              <Award size={32} className="info-icon" />
+              <h3>Experience</h3>
+              <p>Software Developer</p>
+              <small>May 2025 – June 2026</small>
+              <div style={{ marginTop: '0.75rem', textAlign: 'left' }}>
+                <ul style={{ paddingLeft: '1.1rem', margin: 0, color: '#667eea', fontWeight: 600 }}>
+                  <li>Java, Spring Boot</li>
+                  <li>Python, Django</li>
+                  <li>React</li>
+                  <li>C, C++</li>
+                  <li>MySQL</li>
+                  <li>Power BI</li>
+                </ul>
+              </div>
             </div>
           </div>
         </div>
