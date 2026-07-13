@@ -10,7 +10,7 @@ const Hero = () => {
           <h1 className="hero-title">
             Hi, I'm <span className="name-highlight">Raj R</span>
           </h1>
-          <p className="hero-subtitle">Full Stack Developer | Java Spring Boot | Python Django | React</p>
+          <p className="hero-subtitle">Full Stack Developer | Java Spring Boot | Python Django | React | Data Analyst</p>
           <p className="hero-description">
             Building elegant solutions with modern technologies. Passionate about creating seamless user experiences and robust backend systems.
           </p>
